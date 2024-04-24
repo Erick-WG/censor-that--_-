@@ -1,0 +1,1 @@
+I created this smart python dictionary terminal app, this will help you to understand how to work with python libraries, json data in python. This dictionary is smart enough to suggest words that you could mean to search, but the accuracy is 70% so don't roast me on that one if you encounter inconveniences. Have a blast with this one 😉🥇⭐
